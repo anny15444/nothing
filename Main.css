@@ -1,0 +1,34 @@
+h1{
+    font-size:300%;
+    color: royalblue;
+    align-self:auto;
+    margin: 0;
+    margin-left: 600px;
+}
+
+button{
+    border-radius: 500px;
+    border: none;
+    background-color: transparent;
+    color: cyan;
+
+
+}
+
+button:hover{
+    background-color: black;
+    color:white;
+}
+body{
+    background-image: url("https://th.bing.com/th/id/R.f88469d7a76d6bca1f0bfe0559429c37?rik=w9LtwnPufTtdLQ&pid=ImgRaw&r=0");
+}
+div.topnav{
+    background-color: rgba(167, 0, 0, 0.548);
+    text-align: center;
+    padding: 20px;
+    border-radius: 40%;
+}
+.emailc{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
